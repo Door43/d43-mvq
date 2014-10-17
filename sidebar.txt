@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mvq:home|Door43 (mvq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mvq|d43-mvq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mvq/archive/master.zip|d43-mvq.zip]]
+
+**Recent Changes**
+{{changes>ns = mvq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mvq|Ethnologue data]]
+
